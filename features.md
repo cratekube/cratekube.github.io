@@ -1,15 +1,15 @@
 # Features
 
-CrateKube's features work with existing and new technologies to provide services and integrations that empower your development. 
+Empower your development with out-of-the-box integrations, features, and technologies that will take your team to the next level. 
 
 ## Services
 
-CrateKube provides services to manage your application's resources and add functionality such as logging with ease. [Learn More](./services.md)
+Supercharge DevOps with automanaged services designed to make operating your applictions a breeze. [Learn More](./services.md)
 
 ## Integrations
 
-CrateKube integrates with other platforms and technologies to enhance existing solutions. [Learn More](./integrations.md)
+Expand your application's functionality by integrating with external tools through CrateKube. [Learn More](./integrations.md)
 
 ## Technology
 
-CrateKube is powered by technology that expands the possibilities of cloud applications while smoothing over the complexities. [Learn More](./technology.md)
+Harness the power of cutting edge cloud technology without the overhead or complexity of managing them. [Learn More](./technology.md)

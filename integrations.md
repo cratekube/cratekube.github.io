@@ -1,6 +1,6 @@
 # Integrations
 
-CrateKube integrates with third party solutions to empower your development to reach heights unknown. 
+Enhance and expand your application's functionality with CrateKube integrations with third party solutions. 
 
 ## EKS
 
@@ -8,7 +8,4 @@ CrateKube runs on [Amazon EKS](https://aws.amazon.com/eks/) to enhance your Kube
 
 ## CloudWatch
 
-CrateKube works with [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) to keep your application running with healthy infrastructure. 
-
-
-? Do we want to call out any more integrations? 
+Keep your application running with healthy infrastructure using [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/). 
