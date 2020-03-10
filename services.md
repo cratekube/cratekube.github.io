@@ -1,29 +1,26 @@
 # Services
 
+Managing your application is a breeze with CrateKube's services. 
 
 ## Compute
 
-CrateKube manages your memory and CPU in a resource pool model to ensure your cloud applications get the power they need to run as effectively as possible. 
+Manage your memory and CPU in a resource pool model to ensure your cloud applications get the power they need to run as effectively as possible. 
 
 ## Storage
 
-CrateKube supports a variety of storage options, including Docker volumes and automounts. 
+Keep your data secure and organized. CrateKube supports a variety of storage options, including Docker volumes and automounts. 
 
 ## Networking
 
-CrateKube keeps your cloud applications connected and secure. 
-
- ? How? What do we want to call out here? 
+Connect your microservices and applications to the resources they need while shielding them from the dangers of the Internet.  
 
 ## Value-add Services 
 
-CrateKube's value add services provide additional functionality to enhance your application with little effort. 
+Value-add services provide additional functionality to enhance your application with little effort. 
 
  * Logging
  * Monitoring
 
- ? What else do we want to call out here? 
-
 ## Consultation
 
-We provide consultation as a service to help you achieve your solution using CrateKube. [Learn More](./consultation.md)
+Get expert help in achieving your solution through our consultation services. [Learn More](./consultation.md)

@@ -1,10 +1,10 @@
 # Technology
 
-CrateKube runs on powerful technology, providing the robust functionality of containers without the pain of managing the underlying tech. 
+Leverage the cutting edge technology that powers CrateKube to enjoy robust functionality of containers without the pain of managing the underlying tech. 
 
 ## Docker
 
-[Docker](https://www.docker.com/) provides the heart of containers in CrateKube, simplifying the workflow of building and running containers. 
+Simplify the workflow of building and deploying container applictions through [Docker](https://www.docker.com/).
 
 ## Kubernetes
 
@@ -13,5 +13,3 @@ CrateKube runs on powerful technology, providing the robust functionality of con
 ## Crate OS Image
 
 The Crate OS Image is built for security and performance, and tailored to running containers. 
-
- ? Is that what we're calling it? 

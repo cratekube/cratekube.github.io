@@ -1,18 +1,18 @@
 # Welcome to CrateKube!
 
-CrateKube is an open source container management platform that simplifies container management while maintaining the power and flexility offered by containers. 
+Expland the possibilities of DevOps with CrateKube, an open source container management platform that simplifies container management while maintaining the power and flexility offered by containers. 
 
 ## Offerings
 
-CrateKube flexibly includes several offerings to meet your unique use case. [Learn More](./offerings.md)
+Enhance and expand your application's functionality with CrateKube integrations with third party solutions. [Learn More](./offerings.md)
 
 ## Features
 
-CrateKube's features leverage container technology to empower your cloud applications. [Learn More](./features.md)
+Empower your development with out-of-the-box integrations, features, and technologies that will take your team to the next level.  [Learn More](./features.md)
 
 ## Pricing
 
-CrateKube is free and open source. [Learn how we can help you save.](./pricing.md) 
+CrateKube is free and open source. [Learn how we can help you save](./pricing.md) 
 
 ## Support
 
