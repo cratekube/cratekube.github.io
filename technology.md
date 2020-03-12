@@ -1,6 +1,6 @@
 # Technology
 
-Leverage the cutting edge technology that powers CrateKube to enjoy robust functionality of containers without the pain of managing the underlying platform. 
+Leverage the cutting edge technology that powers CrateKube to enjoy robust functionality of containers without the pain of managing the underlying complexity. 
 
 ## Docker
 
