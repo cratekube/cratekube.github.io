@@ -18,9 +18,6 @@ Connect your microservices and applications to the resources they need while shi
 
 Value-add services provide additional functionality to enhance your application with little effort. 
 
- * Logging
- * Monitoring
-
 ## Consultation
 
 Get expert help in achieving your solution through our consultation services. [Learn More](./consultation.md)
