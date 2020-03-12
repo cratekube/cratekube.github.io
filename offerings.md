@@ -4,11 +4,11 @@ CrateKube's offerings scale to fulfill the use case of everyone from platform op
 
 ## Platform Operation
 
-Leverage the power of containers while maintaining control of your deployment. CrateKube's platform can be deployed and configured to your operating needs. 
+Leverage the power of containers while maintaining control of your deployment. CrateKube's platform can be deployed and configured to fit your operating needs. 
 
 ## Components
 
-Expand your deployment's abilities using our components. 
+Expand the power of your existing Kubernetes deployment using our components. Each component can be used independently and mixed and matched to fit your custom needs. 
 
 ## Automanaged
 
