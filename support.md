@@ -1,6 +1,6 @@
 # Support
 
-Reach out through our support channels for help. 
+Join our active and helpful community to get support on CrateKube. 
 
 ## Product
 
