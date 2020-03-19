@@ -4,4 +4,4 @@ Enhance and expand your application's functionality with CrateKube integrations 
 
 ## AWS
 
-Deploy CrateKube to [AWS](https://aws.amazon.com/) with ease while maintaining control over your infrastructure and costs. 
+Deploy CrateKube to [AWS](https://aws.amazon.com/) effortlessly maintaining control over your costs and infrastructure. 

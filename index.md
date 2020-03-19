@@ -1,6 +1,6 @@
 # Welcome to CrateKube!
 
-Expand the possibilities of DevOps with CrateKube, an open source Kubernetes platform built with a no-ops mentality. Kubernetes simplifies container management, and we simplify Kubernetes management.  
+Expand the possibilities of DevOps with CrateKube, an open source Kubernetes platform built with a no-ops mentality. Kubernetes simplifies container management, and we simplify Kubernetes management so that you can have a seemless experience.  
 
 ## Offerings
 
@@ -8,7 +8,7 @@ Enhance and expand your application's functionality by leveraging CrateKube's bu
 
 ## Features
 
-Empower your development with out-of-the-box integrations, features, and technologies that will take your team to the next level.  [Learn More](./features.md)
+Empower your development with out-of-the-box integrations, features, and technologies that will take your team to the next level.  [Learn More about powerful features](./features.md)
 
 ## Pricing
 
