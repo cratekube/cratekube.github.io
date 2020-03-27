@@ -4,8 +4,7 @@ CrateKube's offerings scale to fulfill the use case of everyone from platform op
 
 ## Platform Operation
 
-Leverage the power of containers while maintaining control of your deployment. CrateKube's platform can be deployed and configured to fit your operating needs guaranteeing a powerful and premium 
-experience.  
+Leverage the power of containers while maintaining control of your deployment. CrateKube's platform can be deployed and configured to fit your operating needs.  
 
 ## Components
 
