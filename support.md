@@ -14,4 +14,4 @@ To request help with deploying CrateKube, contact your infrastructure provider.
 
 ## Contributions
 
-Interested in contributing to CrateKube? [Check out our contribution guidelines](contribution.md)
+Interested in contributing to CrateKube?  Get involved to perfect your craft and be part of something big. We would love for you to join us on our journey! [Check out our contribution guidelines](contribution.md)

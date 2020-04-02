@@ -4,7 +4,7 @@ Empower your development with out-of-the-box integrations, features, and technol
 
 ## Services
 
-Supercharge DevOps with automanaged services designed to make operating your applictions a breeze. [Learn More](./services.md)
+Supercharge DevOps with automated platform services that make it possible to focus on building valuable applications. [Learn More](./services.md)
 
 ## Integrations
 
