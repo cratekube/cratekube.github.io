@@ -144,13 +144,13 @@
                 <a
                   class="dropdown-item active font-weight-bold text-uppercase"
                   href="support.html"
-                  >Support Page</a
+                  >Get Support</a
                 >
                 {% else %}
                 <a
                   class="dropdown-item text-white font-weight-bold text-uppercase"
                   href="support.html"
-                  >Support Page</a
+                  >Get Support</a
                 >
                 {% endif %} {% if page.active == "documentation" %}
                 <a
@@ -164,17 +164,17 @@
                   href="#"
                   >Documentation</a
                 >
-                {% endif %} {% if page.active == "billing" %}
+                {% endif %} {% if page.active == "contribution" %}
                 <a
                   class="dropdown-item active font-weight-bold text-uppercase"
                   href="#"
-                  >Billing Dashboard</a
+                  >Contribution</a
                 >
                 {% else %}
                 <a
                   class="dropdown-item text-white font-weight-bold text-uppercase"
                   href="#"
-                  >Billing Dashboard</a
+                  >Contribution</a
                 >
                 {% endif %} {% if page.active == "consultation" %}
                 <a
@@ -218,14 +218,6 @@
             {% else %}
             <li class="nav-item">
               <a class="nav-link" href="features.html">Features</a>
-            </li>
-            {% endif %} {% if page.active == "status" %}
-            <li class="nav-item">
-              <a class="nav-link" href="#">Status</a>
-            </li>
-            {% else %}
-            <li class="nav-item">
-              <a class="nav-link" href="#">Status</a>
             </li>
             {% endif %}
             <li class="nav-item">
