@@ -4,19 +4,28 @@ title: Integrations
 active: integrations
 
 integrations-head: Enhance and expand your application's functionality with CrateKube integrations with third party solutions.
-external-note: Deploy CrateKube to AWS effortlessly while maintaining control over your costs and infrastructure.
+external-note-1: Deploy CrateKube to
+external-note-2: effortlessly while maintaining control over your costs and infrastructure.
 ---
 
 <section id="externalCloud">
   <div class="container">
     <div class="row mt-5">
       <div class="col-md-4">
-        <p class="my-auto text-center">Logo Only</p>
+        <div class="text-center">
+          <img
+            class="w-50 img-fluid"
+            src="./assets/images/aws-logo.png"
+            alt="Kubernetes Logo"
+          />
+        </div>
       </div>
       <div class="col-md-8">
-        <h2 class="sectionHead">External Cloud</h2>
+        <h2 class="sectionHead">AWS</h2>
         <p class="pt-2">
-          {{page.external-note}}
+          {{page.external-note-1}}&nbsp;<a href="https://aws.amazon.com/"
+            ><span class="link"><i>AWS</i></span></a
+          >&nbsp;{{page.external-note-2}}
         </p>
       </div>
     </div>

@@ -124,7 +124,11 @@
                 {% endif %}
               </div>
             </li>
-            <li class="nav-item dropdown">
+            <!-- 
+              Add when dropdown navbar for Support is required
+              
+
+              <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -202,14 +206,28 @@
                 >
                 {% endif %}
               </div>
-            </li>
-            {% if page.active == "pricing" %}
+            </li> -->
+
+            <!-- 
+              Add when pricing page is ready.
+              
+              {% if page.active == "pricing" %}
             <li class="nav-item active">
               <a class="nav-link" href="pricing.html">Pricing</a>
             </li>
             {% else %}
             <li class="nav-item">
               <a class="nav-link" href="pricing.html">Pricing</a>
+            </li>
+            {% endif %}  -->
+
+            {% if page.active == "support" %}
+            <li class="nav-item active">
+              <a class="nav-link" href="support.html">Support</a>
+            </li>
+            {% else %}
+            <li class="nav-item">
+              <a class="nav-link" href="support.html">Support</a>
             </li>
             {% endif %} {% if page.active == "features" %}
             <li class="nav-item active">
@@ -220,11 +238,11 @@
               <a class="nav-link" href="features.html">Features</a>
             </li>
             {% endif %}
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <button class="btn btn-primary getStartedButton ml-4">
                 Get Started
               </button>
-            </li>
+            </li> -->
           </ul>
         </div>
       </nav>
@@ -233,7 +251,7 @@
         {% if page.active == "home" %}
         <div class="row centerRow">
           <div class="col-md-6 col-sm-12 my-auto">
-            <i class="fas fa-3x fa-adjust"></i>
+            <!-- <i class="fas fa-3x fa-adjust"></i> -->
             <span class="crateLogo ml-4 font-weight-bold text-uppercase"
               >{{page.welcome-title}}</span
             >
@@ -259,8 +277,12 @@
     <footer id="footer">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">&copy; Copyright 2018 Cisco</div>
-          <div class="col-md-6 text-right">
+          <div class="col-md-12 text-center">&copy; Copyright 2018 Cisco</div>
+          <!-- 
+            Add when privacy policy and terms of service is defined
+            Change class of above div to col-md-6 and remove text-center
+
+            <div class="col-md-6 text-right">
             <p class="mb-0">
               <a href="privacy.html"
                 ><span class="link">Privacy Policy</span></a
@@ -270,7 +292,7 @@
                 ><span class="link" href="terms.html">Terms of Service</span></a
               >
             </p>
-          </div>
+          </div> -->
         </div>
       </div>
     </footer>
